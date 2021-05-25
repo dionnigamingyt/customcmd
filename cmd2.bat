@@ -181,8 +181,7 @@ ping -n 5 >nul
 ping -n 5 >nul
 ping -n 5 >nul
 cls
-start cmd2.bat
-exit
+goto main
 
 :pings
 ping 192.168.0.1
