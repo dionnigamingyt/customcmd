@@ -1,2 +1,1 @@
-The custom cmd project is a project I'm working and I will refine it
-%the-purchase-text-in-help-page-is-a-easter-egg%
+The custom cmd project is a project I'm working and I will refine it. Purchase text in help page is easter egg
