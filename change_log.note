@@ -1,0 +1,8 @@
+v1.0.2
+
+ Change Log:
+ - Replaced hackerman command with credits command
+ - Added pwrsh command (Powershell needs to be installed)
+ - Added bugs (Just kidding)
+ - Removed "More commands with the purchased version." in the help command
+ - Changed Unknown command text
